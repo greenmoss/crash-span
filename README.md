@@ -1,6 +1,8 @@
 # crash-span
-Would you like to easily connect to your headless CrashPlan servers?
+Would you like to easily connect your OS X system to your headless CrashPlan servers?
 This script is for you!
+
+**NOTE**: For Windows; head over to [win-crashplan-uiswitcher](https://github.com/Hossy/win-crashplan-uiswitcher)
 
 # Usage
 ```sh
